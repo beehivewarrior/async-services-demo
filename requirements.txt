@@ -1,0 +1,4 @@
+aiohttp
+mode-streaming
+celery
+kombu
